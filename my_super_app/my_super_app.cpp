@@ -8,5 +8,6 @@ int main()
 {
     c_Test c_test;
     c_test.print();
+    std::cout << "\n";
 }
 
