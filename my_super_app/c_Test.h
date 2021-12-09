@@ -10,5 +10,8 @@ public:
 	}
 
 	void print() const;
+	inline int getX() {
+		return this->x;
+	}
 };
 
